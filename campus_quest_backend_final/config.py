@@ -14,7 +14,7 @@ GAME_CONFIG = {
     "death_eater_duration_seconds": 420,
 
     # Phase 2: shield + artifacts.
-    "voldemort_duration_seconds": 300,
+    "voldemort_duration_seconds": 360,
 
     # Ignore very poor GPS readings rather than falsely completing a checkpoint.
     "max_location_accuracy_m": 100.0,
