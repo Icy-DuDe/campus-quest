@@ -115,7 +115,7 @@ def activate_phase_two(game, now):
         game,
         "story",
         (
-            "Death Eater: This changes nothing. In five minutes, "
+            "Death Eater: This changes nothing. In six minutes, "
             "Voldemort will attack this campus."
         ),
     )
@@ -130,7 +130,7 @@ def activate_phase_two(game, now):
     add_message(
         game,
         "objective",
-        "Reach Checkpoints 1 and 5 before the five-minute timer ends.",
+        "Reach Checkpoints 1 and 5 before the six-minute timer ends.",
     )
 
 
